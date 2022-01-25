@@ -8,7 +8,7 @@ const fs = require("fs");
 
 
 /* 
-Inspiration : https://github.com/SpencerDring/AuroraFN-Backend/blob/develop/xmpp/Client.js
+Inspiration : https://github.com/Project-Luxy/xmpp
 originally by : AuroraFN
 */
 module.exports = class Client extends EventEmitter {
